@@ -1,4 +1,4 @@
-## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Titillium+Web&weight=700&size=30&pause=1001&color=000000&center=true&vCenter=true&random=false&width=435&lines=Hi+there!+I'm+Lau+Yan+Kai!" alt="Typing SVG" /></a>
+## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=500&size=45&pause=1001&color=000000&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I+am+Lau+Yan+Kai+!" alt="Typing SVG" /></a>
 <!--
 **lauyankai/lauyankai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
