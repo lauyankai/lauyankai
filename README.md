@@ -1,7 +1,7 @@
 <div>&nbsp;</div>
 
-<p align="center">
-<img src="https://github.com/lauyankai/lauyankai/blob/main/images/7118756_3426526.jpg" height="350" width="350"/></a>
+<p align="right">
+<img src="https://github.com/lauyankai/lauyankai/blob/main/images/7118756_3426526.jpg" height="300" width="300"/></a>
 <a href="https://www.freepik.com/free-vector/programming-concept-illustration_7118756.htm#query=programming&position=3&from_view=search&track=sph&uuid=b5ce84db-f110-415a-ab33-6750859d6a99">Image by storyset</a> on Freepik
 </p> 
 
