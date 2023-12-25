@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=lauyankai" /> </div>
+
 <!--
 **lauyankai/lauyankai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
