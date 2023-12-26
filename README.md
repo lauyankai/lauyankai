@@ -6,7 +6,7 @@
 <div>&nbsp;</div>
 <img align="center" width="350" src="https://github.com/lauyankai/lauyankai/blob/main/images/15581993_5643241.jpg"/> 
 <p align="center">
-<sup><sub><a href="https://www.freepik.com/free-vector/programming-concept-illustration_7118756.htm#query=programming&position=3&from_view=search&track=sph&uuid=b5ce84db-f110-415a-ab33-6750859d6a99">Image by storyset</a> on Freepik</sup></sub>
+<sub><a href="https://www.freepik.com/free-vector/programming-concept-illustration_7118756.htm#query=programming&position=3&from_view=search&track=sph&uuid=b5ce84db-f110-415a-ab33-6750859d6a99">Image by storyset</a> on Freepik</sub>
 </p> </div>
 
 
