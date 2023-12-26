@@ -1,7 +1,7 @@
 <div>&nbsp;</div>
 
 <p align="left">
-<sub><a href="https://www.freepik.com/free-vector/programming-concept-illustration_7118756.htm#query=programming&position=3&from_view=search&track=sph&uuid=b5ce84db-f110-415a-ab33-6750859d6a99">Image by storyset</a> on Freepik</sub>
+<sup><sub><a href="https://www.freepik.com/free-vector/programming-concept-illustration_7118756.htm#query=programming&position=3&from_view=search&track=sph&uuid=b5ce84db-f110-415a-ab33-6750859d6a99">Image by storyset</a> on Freepik</sup></sub>
 </p>
 
   <!-- Dynamic Typing Effect 动态打字效果 -->
