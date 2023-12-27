@@ -7,7 +7,7 @@ a **Computer Science** undergraduate, specialising in **Data Engineering** at **
 <div>&nbsp;</div>
 
  ## About Me
-<img align="right" width="240" src="https://github.com/lauyankai/lauyankai/blob/main/images/15581993_5643241.jpg"/> 
+<img align="right" width="225" src="https://github.com/lauyankai/lauyankai/blob/main/images/15581993_5643241.jpg"/> 
 <p align="right">
 <sub> <a href="https://www.freepik.com/free-vector/programming-concept-illustration_7118756.htm#query=programming&position=3&from_view=search&track=sph&uuid=b5ce84db-f110-415a-ab33-6750859d6a99">Image by storyset</a> on Freepik </sub>
 </p> </div>
@@ -42,7 +42,7 @@ a **Computer Science** undergraduate, specialising in **Data Engineering** at **
   
   - Ministry of Education Malaysia Matriculation Programme | Engineering Stream
 
-<img align="right" width="100" src="https://raw.githubusercontent.com/lauyankai/lauyankai/main/images/Logo%20SMKTUN.png" />
+<img align="right" width="90" src="https://raw.githubusercontent.com/lauyankai/lauyankai/main/images/Logo%20SMKTUN.png" />
 
 - <strong><a href="https://websmktamanunivers.wixsite.com/website">SMK Taman Universiti</a></strong> &emsp; 📌 Jan 2017 —— Mar 2022
   
