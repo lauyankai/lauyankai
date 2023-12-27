@@ -36,19 +36,19 @@ a **Computer Science** undergraduate, specialising in **Data Engineering** at **
 ## Education
 <img align="right" width="88" src="https://raw.githubusercontent.com/lauyankai/lauyankai/main/images/LOGO%20UTM.jpg" />
 
-- [Universiti Teknologi Malaysia (UTM)](https://www.utm.my/) &emsp; 📌 Oct 2023 —— Now
+- <strong>[Universiti Teknologi Malaysia (UTM)](https://www.utm.my/)</strong> &emsp; 📌 Oct 2023 —— Now
   
   - Bachelor of Computer Science (Data Engineering) with Honours
     
-<img align="right" width="60" src="https://raw.githubusercontent.com/lauyankai/lauyankai/main/images/Logo%20KMKJ.png" />
+<img align="right" width="88" src="https://raw.githubusercontent.com/lauyankai/lauyankai/main/images/Logo%20KMKJ.png" />
 
-- [Johore Engineering Matriculation College (KMKJ)](https://www.kmkj.matrik.edu.my/) &emsp;📌 Jul 2022 —— May 2023
+- <strong>[Johore Engineering Matriculation College (KMKJ)](https://www.kmkj.matrik.edu.my/)</strong> &emsp;📌 Jul 2022 —— May 2023
   
   - Ministry of Education Malaysia Matriculation Programme | Engineering Stream
     
 <img align="right" width="88" src="https://raw.githubusercontent.com/lauyankai/lauyankai/main/images/Logo%20SMKTUN.png" />
 
-- [SMK Taman Universiti](https://websmktamanunivers.wixsite.com/website) &emsp;📌 Jan 2017 —— Mar 2022
+- <strong>[SMK Taman Universiti](https://websmktamanunivers.wixsite.com/website)</strong> &emsp;📌 Jan 2017 —— Mar 2022
   
   - Sijil Pelajaran Malaysia (SPM) | Pure Science Stream
     
