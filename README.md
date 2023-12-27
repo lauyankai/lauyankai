@@ -2,7 +2,7 @@
     
   <!-- Typing Effect -->
 # <a href="https://github.com/lauyankai"><img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=500&size=45&pause=1001&color=1973F7&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I+am+Lau+Yan+Kai+!" alt="Typing SVG" /></a> 
-
+a **Computer Science** undergraduate, specialising in **Data Engineering** at **Universiti Teknologi Malaysia (UTM)** 🎓
 <div>&nbsp;</div>
 
 <table>
@@ -15,7 +15,6 @@
 </p> </div>
 
 * **Name** : LAU YAN KAI
-* a **Computer Science** undergraduate, specialising in **Data Engineering** at **Universiti Teknologi Malaysia (UTM)** 🎓.
 * I love working with data to find cool insights.
 * I'm always learning and getting hands-on with projects to make a real impact 🌐.
 
@@ -30,8 +29,30 @@
 
 </div>
  
-  </tr></td>
+</tr></td>
 
+<tr><td>  
+
+## Education
+<img align="right" width="88" src="https://raw.githubusercontent.com/lauyankai/lauyankai/main/images/LOGO%20UTM.jpg" />
+
+- [Universiti Teknologi Malaysia (UTM)](https://www.utm.my/) &emsp; 📌 Oct 2023 —— Now
+  
+  - Bachelor of Computer Science (Data Engineering) with Honours
+    
+<img align="right" width="60" src="https://raw.githubusercontent.com/lauyankai/lauyankai/main/images/Logo%20KMKJ.png" />
+
+- [Johore Engineering Matriculation College (KMKJ)](https://www.kmkj.matrik.edu.my/) &emsp;📌 Jul 2022 —— May 2023
+  
+  - Ministry of Education Malaysia Matriculation Programme | Engineering Stream
+    
+<img align="right" width="88" src="https://raw.githubusercontent.com/lauyankai/lauyankai/main/images/Logo%20SMKTUN.png" />
+
+- [SMK Taman Universiti](https://websmktamanunivers.wixsite.com/website) &emsp;📌 Jan 2017 —— Mar 2022
+  
+  - Sijil Pelajaran Malaysia (SPM) | Pure Science Stream
+    
+</tr></td>
 </table>
 
 <div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br/></div>
