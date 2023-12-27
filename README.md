@@ -36,7 +36,7 @@ a **Computer Science** undergraduate, specialising in **Data Engineering** at **
   - Bachelor of Computer Science (Data Engineering) with Honours
 
 
-<img align="right" width="62" src="https://raw.githubusercontent.com/lauyankai/lauyankai/main/images/Logo%20KMKJ.png" />
+<img align="right" width="60" src="https://raw.githubusercontent.com/lauyankai/lauyankai/main/images/Logo%20KMKJ.png" />
 
 - <strong><a href="https://www.kmkj.matrik.edu.my/">Johore Engineering Matriculation College (KMKJ)</a></strong> &emsp; 📌 Jul 2022 —— May 2023
   
