@@ -8,7 +8,7 @@
 <table>
   <tr><td>    
     
-  ## About Me
+### About Me
 <img align="right" width="240" src="https://github.com/lauyankai/lauyankai/blob/main/images/15581993_5643241.jpg"/> 
 <p align="right">
 <sup><sub> <a href="https://www.freepik.com/free-vector/programming-concept-illustration_7118756.htm#query=programming&position=3&from_view=search&track=sph&uuid=b5ce84db-f110-415a-ab33-6750859d6a99">Image by storyset</a> on Freepik </sup></sub>
@@ -22,18 +22,16 @@
   </tr></td>
   
   <tr><td>    
-## Connect With Me
-<p align="left">
-<a href="https://linkedin.com/in/lauyankai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lauyankai" height="30" width="40" /><a href="https://linkedin.com/in/lauyankai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lauyankai" height="30" width="40" /><a href="https://linkedin.com/in/lauyankai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="lauyankai" height="30" width="40" /></a>
-</p>
+<div align="center">
+    
+| Connect With Me   | Language and Tools |
+| :----------: | :----------: |
+| <a href="https://linkedin.com/in/lauyankai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lauyankai" height="30" width="40" /><a href="https://facebook.com/lyankai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lauyankai" height="30" width="40" /><a href="https://github.com/lauyankai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="lauyankai" height="30" width="40" /></a><a href="https://linkedin.com/in/lauyankai" target="blank"><img align="center" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/x-twitter.svg" alt="lauyankai" height="30" width="40" /><a href="https://linkedin.com/in/lauyankai" target="blank"><img align="center" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/discord.svg" alt="lauyankai" height="30" width="40" />  |  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+</div>
+ 
   </tr></td>
 
-  <tr><td>
-      
-## Language and Tools
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-</tr></td>
 </table>
 
 <div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br/></div>
