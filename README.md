@@ -14,6 +14,7 @@ a **Computer Science** undergraduate, specialising in **Data Engineering** at **
  ## About Me
 
 * **Name** : LAU YAN KAI
+* I am currently **20 years old**, from **Greater Johor Bahru**!
 * I love working with data to find cool insights.
 * I'm always learning and getting hands-on with projects to make a real impact 🌐.
 
