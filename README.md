@@ -16,8 +16,8 @@ a **Computer Science** undergraduate, specialising in **Data Engineering** at **
 * **Name** : LAU YAN KAI
 * 🌍 I'm from Greater Johor Bahru, Malaysia
 * ✉️ You can contact me at lauyankai04@gmail.com
-* I love working with data to find cool insights.
-* I'm always learning and getting hands-on with projects to make a real impact 🌐.
+* ⚡ I love working with data to find cool insights.
+* 🌐 I'm always learning and getting hands-on with projects to make a real impact.
 
 <div>&nbsp;</div>
 
