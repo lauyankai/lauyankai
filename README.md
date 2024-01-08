@@ -8,13 +8,15 @@ a **Computer Science** undergraduate, specialising in **Data Engineering** at **
 
 <div>&nbsp;</div>
 
- ## About Me
- 
 <img align="right" width="225" src="https://github.com/lauyankai/lauyankai/blob/main/images/15581993_5643241.jpg"/> 
 
 <div align="right">
 <sub> <a href="https://www.freepik.com/free-vector/programming-concept-illustration_7118756.htm#query=programming&position=3&from_view=search&track=sph&uuid=b5ce84db-f110-415a-ab33-6750859d6a99">Image by storyset</a> on Freepik </sub>
 </div>
+
+ ## About Me
+ 
+
 
 * **Name** : LAU YAN KAI
 * 🌍 I'm from Greater Johor Bahru, Malaysia
