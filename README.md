@@ -11,14 +11,12 @@
 
 a **Computer Science** undergraduate, specialising in **Data Engineering** at **Universiti Teknologi Malaysia (UTM)** 🎓
 
+Click <a href="https://lauyankai.github.io">HERE!</a> to access my ePortfolio website!
 </div>
 
 <div>&nbsp;</div>
 
  ## About Me
- 
-
-
 * **Name** : LAU YAN KAI
 * ⚡ I love working with data to find cool insights.
 * 🌐 I'm always learning and getting hands-on with projects to make a real impact.
