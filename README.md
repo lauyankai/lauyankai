@@ -61,3 +61,11 @@ a **Computer Science** undergraduate, specialising in **Data Engineering** at **
 <div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br/></div>
 
 <div>&nbsp;</div>
+
+## Click to access my notes/assignments! 😎
+* ⚡ <a href="https://github.com/lauyankai/Digital_Logic">Digital Logic</a> 
+* ⚡ <a href="https://github.com/lauyankai/Discrete_Structure">Discrete Structure</a> 
+* ⚡ <a href="https://github.com/lauyankai/Programming_Technique_I">Programming Technique I</a> 
+* ⚡ <a href="https://github.com/lauyankai/Technology_and_Information_System">Technology and Information System</a>
+
+<div>&nbsp;</div>
