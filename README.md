@@ -59,3 +59,5 @@ a **Computer Science** undergraduate, specialising in **Data Engineering** at **
 <div>&nbsp;</div>
 
 <div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br/></div>
+
+<div>&nbsp;</div>
