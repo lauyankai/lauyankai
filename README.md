@@ -28,37 +28,6 @@ Click <a href="https://lauyankai.github.io">HERE!</a> to access my ePortfolio we
 
 <div>&nbsp;</div>
 
-## Education
-<img align="right" width="160" src="https://raw.githubusercontent.com/lauyankai/lauyankai/main/images/LOGO%20UTM.jpg" />
-
-- <strong> <a href="https://www.utm.my/"> Universiti Teknologi Malaysia (UTM) </a> </strong> &emsp; 📌 Oct 2023 —— Now
-  
-  - Bachelor of Computer Science (Data Engineering) with Honours
-
-
-<img align="right" width="60" src="https://raw.githubusercontent.com/lauyankai/lauyankai/main/images/Logo%20KMKJ.png" />
-
-- <strong><a href="https://www.kmkj.matrik.edu.my/">Johore Engineering Matriculation College (KMKJ)</a></strong> &emsp; 📌 Jul 2022 —— May 2023
-  
-  - Ministry of Education Malaysia Matriculation Programme | Engineering Stream
-
-<img align="right" width="90" src="https://raw.githubusercontent.com/lauyankai/lauyankai/main/images/Logo%20SMKTUN.png" />
-
-- <strong><a href="https://websmktamanunivers.wixsite.com/website">SMK Taman Universiti</a></strong> &emsp; 📌 Jan 2017 —— Mar 2022
-  
-  - Sijil Pelajaran Malaysia (SPM) | Pure Science Stream
-
-<div>&nbsp;</div>
-<div>&nbsp;</div>
-
 <div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br/></div>
-
-<div>&nbsp;</div>
-
-## Click to access my notes/assignments! 😎
-* ⚡ <a href="https://github.com/lauyankai/Digital_Logic">Digital Logic</a> 
-* ⚡ <a href="https://github.com/lauyankai/Discrete_Structure">Discrete Structure</a> 
-* ⚡ <a href="https://github.com/lauyankai/Programming_Technique_I">Programming Technique I</a> 
-* ⚡ <a href="https://github.com/lauyankai/Technology_and_Information_System">Technology and Information System</a>
 
 <div>&nbsp;</div>
