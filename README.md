@@ -1,8 +1,9 @@
 <!-- Typing Effect -->
 # <a href="https://github.com/lauyankai"><img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=500&size=45&pause=1001&color=1973F7&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I+am+Lau+Yan+Kai+!" alt="Typing SVG" /></a> 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lauyankai&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=light&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lauyankai&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=light&hide_border=false" height="150" alt="languages graph"  />
+  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=lauyankai\&rank_icon=github)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lauyankai\&layout=donut)
 </div>
 <div>&nbsp;</div>
 
