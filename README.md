@@ -10,15 +10,3 @@
  ## About Me
 * ⚡ I love working with data to find cool insights.
 * 🌐 I'm always learning and getting hands-on with projects to make a real impact.
-
-<div align="center">
-  
-| Connect With Me   |
-| :----------: |
-| <a href="https://linkedin.com/in/lauyankai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lauyankai" height="30" width="40" /><a href="https://facebook.com/lyankai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lauyankai" height="30" width="40" /><a href="https://github.com/lauyankai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="lauyankai" height="30" width="40" /></a><a href="https://x.com/lauyankai" target="blank"><img align="center" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/x-twitter.svg" alt="lauyankai" height="30" width="40" /><a href="https://discordapp.com/users/lauyankai" target="blank"><img align="center" src="https://raw.githubusercontent.com/pheralb/svgl/main/static/library/discord.svg" alt="lauyankai" height="30" width="40" />  |
-</div>
-
-<div>&nbsp;</div>
-<div align="center">
-  <img src="https://profile-counter.glitch.me/lauyankai/count.svg?"  />
-</div>
