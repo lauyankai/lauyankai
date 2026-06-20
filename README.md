@@ -2,6 +2,12 @@
   <h1>Hi there, I'm Lau Yan Kai! 👋</h1>
   <h3>Data Engineering Student @ UTM | Aspiring Data Engineer & AI Enthusiast</h3>
   
+  <br />
+  <a href="https://lauyankai.github.io">
+    <img src="https://img.shields.io/badge/🌐_VISIT_MY_E_PORTFOLIO-050505?style=for-the-badge&logo=Three.js&logoColor=black&labelColor=00f0ff&color=050505" alt="3D Portfolio" />
+  </a>
+  <br /><br />
+  
   <p align="center">
     <a href="https://linkedin.com/in/lauyankai"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="mailto:lauyankai04@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
@@ -14,9 +20,10 @@
 
 I am an enthusiastic **Data Engineering** student currently pursuing my Bachelor of Computer Science with Honours at Universiti Teknologi Malaysia (UTM). I am passionate about designing robust data pipelines, applying predictive AI algorithms to solve real-world problems, and exploring emerging tech like Web3 and IoT. 
 
+- 🌐 **Portfolio:** Experience my projects in full at **[lauyankai.github.io](https://lauyankai.github.io)**
 - 🎓 **Current CGPA:** 4.00/4.00
 - 🎯 **Looking for:** A one-year internship opportunity from **September 2026 to June 2027** to further develop practical skills in data engineering and enterprise architecture.
-- ⚡ **Fun Fact:** I actively compete in hackathons and love building interactive educational simulations!
+- ⚡ **Fun Fact:** I actively compete in hackathons and love solving problems!
 
 ---
 
